@@ -1,3 +1,3 @@
 # Projenin Canlı adresi
 
-https://tahmin-et.netlify.app/
+https://ahmetyags.github.io/guess-my-number/
